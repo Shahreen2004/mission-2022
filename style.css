@@ -1,0 +1,124 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.blue-color{
+    color: blue;
+}
+h1{
+    font-size: 50px;
+    height: 30px;
+}
+
+.leftborder{
+    border-left:5px rgb(255, 0, 0) solid;
+    height: 150px;
+    
+}
+section{
+    display: flex;  
+}
+.half-width{
+    width: 50%;
+    padding-left: 60px;
+}
+.half-width img{
+    width: 500px
+}
+.link-batton{
+    text-decoration: none;
+    background-color: rgb(74, 69, 82);
+    padding:10px 30px ;
+    border-radius: 10px;
+    color: white;
+}
+
+
+#medil{
+    text-align: center;
+    margin-bottom: 90px;
+}
+span{
+    color:  rgb(7, 160, 140);
+}
+h2{
+    text-align: center;
+    
+}
+
+.spaice{
+    margin-bottom: 60px;
+}
+
+
+.mid{
+    border-radius: 20px;
+    width: 30%; 
+    margin: 20px ;
+}
+
+#maddil-div-1{
+  background-image: linear-gradient(rgb(30, 163, 216), rgb(89, 228, 101));
+  padding: 10px 10px 10px 10px ;
+
+}
+
+#maddil-div-2{
+   background-image: linear-gradient(rgb(21, 83, 216), rgb(167, 66, 121));
+   padding: 10px 10px 10px 10px ;
+}
+
+#maddil-div-3{
+   background-image: linear-gradient(rgb(50, 194, 170), blue);
+   padding: 10px 10px 10px 10px ;
+}
+
+.img{
+    width: 40%;
+}
+.img-half{
+  width: 500px;
+  margin: 60px;
+}
+.third{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 40%;
+}
+.alo{
+    display: flex;
+}
+.font-left{
+    width: 40%;
+    margin-top: 150px;
+}
+.img3{
+   width: 50%;   
+}
+.thr-3{
+    display: flex;
+}
+
+.font-right{
+   width: 50%;
+   margin: 20px;
+}
+
+.img3 img{
+    width: 70%;
+    margin: 20px;
+}
+#font{
+    margin-left: 500px;
+}
+.img4{
+    width: 50%;
+    margin: 100px;
+}
